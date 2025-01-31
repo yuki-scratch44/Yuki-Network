@@ -1,0 +1,2 @@
+# LuckPerms UUID lookup cache
+52324a8a-b387-333d-b752-d3077aee73e2:yukiscratch44

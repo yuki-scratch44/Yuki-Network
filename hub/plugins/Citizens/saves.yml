@@ -59,7 +59,7 @@ npc:
           type: GRASS
           amount: 1
           mdata: 0
-    traitnames: spawned,scoreboardtrait,type,skintrait,mounttrait,location,rotationtrait,owner,equipment,inventory,lookclose
+    traitnames: type,owner,equipment,lookclose,inventory,rotationtrait,scoreboardtrait,location,skintrait,mounttrait,spawned
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -138,7 +138,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: spawned,scoreboardtrait,type,skintrait,mounttrait,location,rotationtrait,inventory,equipment,owner,commandtrait,lookclose
+    traitnames: type,owner,equipment,lookclose,inventory,rotationtrait,scoreboardtrait,location,skintrait,mounttrait,spawned,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

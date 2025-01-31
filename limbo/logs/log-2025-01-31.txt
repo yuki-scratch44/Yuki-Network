@@ -12,3 +12,13 @@
 12:43:11.344 INFO  Limbo -- Player yukiscratch44 disconnected
 12:45:48.055 INFO  Limbo -- Stopping server...
 12:45:48.056 INFO  Limbo -- Server stopped, Goodbye!
+13:11:55.063 INFO  Limbo -- Starting server...
+13:11:56.583 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+13:13:44.266 INFO  Limbo -- Player yukiscratch44 connected (/127.0.0.1:59132) [V1_8]
+13:13:49.173 INFO  Limbo -- Player yukiscratch44 disconnected
+13:16:38.530 INFO  Limbo -- Player yukiscratch44 connected (/127.0.0.1:45722) [V1_8]
+13:16:45.910 INFO  Limbo -- Player yukiscratch44 disconnected
+13:18:23.851 INFO  Limbo -- Player yukiscratch44 connected (/127.0.0.1:34862) [V1_8]
+13:18:28.163 INFO  Limbo -- Player yukiscratch44 disconnected
+13:19:11.606 INFO  Limbo -- Stopping server...
+13:19:11.606 INFO  Limbo -- Server stopped, Goodbye!
