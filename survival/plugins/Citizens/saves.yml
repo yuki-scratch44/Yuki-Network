@@ -1,0 +1,127 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 1
+npc:
+  '0':
+    metadata:
+      cached-skin-uuid: 9cd9d3be-343a-45e2-8588-ba59d5d3e802
+      cached-skin-uuid-name: 510c3efe-85ed-433f-856e-1310aca25521
+    name: Survival
+    uuid: ebacc0cf-daed-4a21-bec5-b349c237d08b
+    traits:
+      spawned: true
+      type: PLAYER
+      skintrait:
+        fetchDefaultSkin: true
+        signature: lKpFIJcaZsES52+Q98Bsjo6wBixq4E0iphdETDp6j8oC9l0mJdubUdkkHYMYuf9j9tPV0Qp0ERSVLiF1ghBe5utCHeQwssoyg/ohH/blr2qrSG7zXRqGm7UZUcfYpskjokGKcRpwMb7GpFO3oEsaNEoX38txLp1vSr+CQS9oT53DmNmVpebicMGPWib7H29yB1rGUjpY859zQtFNSE+fLAQPmToo+NAxrWrT/dS76Xz4s1YclY8Vxu6Q9w2xw8onggrrPrkF0VgB+h2tn0BNg4rZAAaZ+G1FLSFHWsYsm7hv3IOxbyCF6ewt2BzStB8JNbjb8/DgDYxUn2saiUSl/S4qcOnhc1G38zR1UGaZ3KWLzzANuu0WtOHWzCa4MbE1tengDPqrtfBNIb3wJUGuhPXF4joJWojaJ7gd35td1JZEo4x7L49rnXzV5M8MaiMYYtbP/9Tnb2aSMnRRS39tFzC84ba+nvfeT950ut/tSrxc6ov8wY9AjWxD4l/8laxhu1Wo6NOhputZziFAsGefguBUknwP1ycQjZ09GCXKJr4KZVjpig55EC+DxvuqoCnL2LF2HmMKiWr/CIM6Ab5HbxFWGMApQKi76gZy4GqAMcFtdsjp8Mh3aWz3AFuIODwiY8VQsxvcH3pHBpAegxdjj44HGFSGWJe+LGWf8Q6ajQA=
+        skinName: 510c3efe-85ed-433f-856e-1310aca25521
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYyMDUzODgwMjA5MiwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2YzVkZTQ1NTE4ODc2Nzc2ZjMxMTNmYmYyODU0ZWVlYWZhYWI2M2JjZDBiMDVlYzFlMDFlZDhmODYzY2VhNzAiCiAgICB9CiAgfQp9
+        updateSkins: false
+      scoreboardtrait: {}
+      inventory:
+        '0':
+          type: STONE_SWORD
+          amount: 1
+          mdata: 0
+      owner:
+        uuid: 52324a8a-b387-333d-b752-d3077aee73e2
+      location:
+        bodyYaw: 50.182175
+        world: world
+        x: '0.5'
+        y: '16.0'
+        z: '9.5'
+        yaw: '50.1822'
+        pitch: '-14.3067'
+      rotationtrait:
+        globalParameters: {}
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      equipment:
+        hand:
+          type: STONE_SWORD
+          amount: 1
+          mdata: 0
+    traitnames: mounttrait,spawned,lookclose,equipment,type,location,scoreboardtrait,rotationtrait,inventory,skintrait,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '1':
+    metadata:
+      cached-skin-uuid: f6eb2269-05ad-41ed-bfaf-53cd15290e37
+      cached-skin-uuid-name: 1876e26a-b949-483b-9dd0-fbbea8703526
+      minecraft-ai: false
+    name: Creative
+    uuid: 23506686-aee1-432d-94cc-4ffdbfdb8064
+    traits:
+      scoreboardtrait: {}
+      skintrait:
+        fetchDefaultSkin: true
+        signature: ek3UsblzFUrcbIEsl4z/qPZpqWXODSUlFHyLnvLYA9RctNMPucj8cC/n3qfaUerEXe/9WREN3xu7XeeAE7SLPpfYiUYDHLTWtCnWKOi02qmf3FqpeLCfOvRUdzh6RkoGB8+jZoS3ive4u5/ANr8T21Mx+YIGb/b8c8g9e6KhIexQbx23U5dGvpJah7hbtv5NuwiUAQr6jO+3ygGwF3yOHOe1sF6BMgwfysRCRB/PbbIR++cVhXCnkgU6HGbMemwlPf8/LhhJ0v80Qz80nF8xFsBsD+fdBV6hL0EHZYelNzkzdX8WJekn+alrNjTt8PLI3ViQFz+tr1pCYcD1UczCevAhboXcbJnKy9/VssYMqQHp16OAdao6LXOeweb8M8jKC5ZtLBAkjPeyEMjLyjuiM3EDrgWmk6y7W5kBttDBWsE9QCkk93J1dvOX0d0EznsQCTX1eT0PE5dD2KzOsruyXsThiuAkh39jhoi4gMbvgwnQatqNmNr6ruB63Z6EqzEE7weAyBs9WSPD9pJ08zTOCiJd36Dp8facT+LQxbNqgK89zCAXe1PhUj8ZPfzbHZmy2CGkghZJznGbgC9kxcAGzUzNPN2Ng17ocemjKsTQkp6la9CsEpoYO7Z8fdMZAVGufupMB9IYMMVi6ORBRPqwOWc6rBG3ZwUyR4ewyuDJC1Y=
+        skinName: 1876e26a-b949-483b-9dd0-fbbea8703526
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYxNzM4Nzg4MDczOCwKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY5Yjc1NDExZjRiOTkxZGQyMjgxN2U3ZDc3YzM1NWNmYjkwYjM4NjEyZjdhMzZhMzU3NmQyZmU4YjAxYjZjMCIKICAgIH0KICB9Cn0=
+        updateSkins: false
+      type: PLAYER
+      location:
+        bodyYaw: -170.52826
+        world: world
+        x: '-3.5'
+        y: '16.0'
+        z: '7.5'
+        yaw: '-170.5283'
+        pitch: '10.273'
+      owner:
+        uuid: 52324a8a-b387-333d-b752-d3077aee73e2
+      inventory:
+        '0':
+          type: GRASS
+          amount: 1
+          mdata: 0
+      rotationtrait:
+        globalParameters: {}
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      spawned: true
+      equipment:
+        hand:
+          type: GRASS
+          amount: 1
+          mdata: 0
+    traitnames: mounttrait,spawned,lookclose,equipment,type,location,scoreboardtrait,rotationtrait,inventory,owner,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
