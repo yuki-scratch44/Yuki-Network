@@ -1,0 +1,43 @@
+[2025/01/29 09:23:35]: §9          __             _       
+[2025/01/29 09:23:35]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/01/29 09:23:35]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/01/29 09:23:35]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/01/29 09:23:35]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/01/29 09:23:35]: §9                  |___/            
+[2025/01/29 09:23:35]: §9 By: www.nickuc.com - V 10.3.27
+[2025/01/29 09:23:35]: §9 
+[2025/01/29 09:23:35]: §3[nLogin] [DEBUG] All settings were loaded in 149 ms.
+[2025/01/29 09:23:36]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2025/01/29 09:23:36]: §3[nLogin] [DEBUG] All plugin messages were loaded in 77 ms (languageByClient=false).
+[2025/01/29 09:23:36]: §3[nLogin] [DEBUG] All proxy settings were loaded in 5 ms.
+[2025/01/29 09:23:36]: §3[nLogin] [DEBUG] Loading database...
+[2025/01/29 09:23:36]: [nLogin] Generating RSA keypair... (this may take a while)
+[2025/01/29 09:23:37]: [nLogin] The RSA key pair was successfully generated. Took 1.00s
+[2025/01/29 09:23:37]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/01/29 09:23:37]: [nLogin] Download finished (took 2016ms, hash = 7320e44176d4a0c78a5ef0585a8f1c74fef2bfc54bb9a54c21b2d113cebfa185)
+[2025/01/29 09:23:42]: 
+[2025/01/29 09:23:42]:  §bThank you so much for choosing nLogin! §4<3
+[2025/01/29 09:23:42]: 
+[2025/01/29 09:23:42]:  §4For your safety, please read the message below:
+[2025/01/29 09:23:42]:   §cNever download nLogin from unknown sources.
+[2025/01/29 09:23:42]:   §cA modified version may contain malicious software.
+[2025/01/29 09:23:42]: 
+[2025/01/29 09:23:42]:  §3Trusted sources:
+[2025/01/29 09:23:42]:   §bwww.nickuc.com
+[2025/01/29 09:23:42]:   §bwww.github.com/nickuc
+[2025/01/29 09:23:42]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2025/01/29 09:23:42]: 
+[2025/01/29 09:23:42]:  §3Official support channels:
+[2025/01/29 09:23:42]:   §bDiscord group: §fwww.nickuc.com/discord
+[2025/01/29 09:23:42]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2025/01/29 09:23:42]:   §bEmail: §fsupport@nickuc.com
+[2025/01/29 09:23:42]:   §bYouTube: §fyoutube.com/nickuc
+[2025/01/29 09:23:42]: 
+[2025/01/29 09:23:42]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2025/01/29 09:23:42]:  §eand click the "Setup plugin" button to configure your plugin.
+[2025/01/29 09:23:42]: 
+[2025/01/29 09:26:00]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('yukiscratch44', 52324a8ab387333db752d3077aee73e2, null, null, '$2a$10$r9zP6tg5vRcgEAZ16307Cevd506gyUFGaIcwMKmB8cGgHpV/c/YZK', '192.168.95.201', '2025-01-29 09:26:00.785', '2025-01-29 09:26:00.785', null, null, null)" (applied to all columns)
+[2025/01/29 09:26:00]: [nLogin] The user yukiscratch44 has successfully registered.
+[2025/01/29 09:26:14]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'yukiscratch44', `unique_id` = 52324a8ab387333db752d3077aee73e2,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$r9zP6tg5vRcgEAZ16307Cevd506gyUFGaIcwMKmB8cGgHpV/c/YZK', `last_ip` = '192.168.95.201', `creation_date` = 2025-01-29 09:26:00.785, `last_seen` = 2025-01-29 09:26:14.462, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"hub","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/01/29 09:36:36]: [nLogin] Update was successfully queued, do not forcibly stop your server. (v10.3.27 c6c611 => v10.4.21 8b8428)
+[2025/01/29 09:36:36]: [nLogin] Successful plugin core shutdown (took 0.01s)
