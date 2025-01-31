@@ -1,0 +1,6 @@
+09:02:15.819 INFO  Limbo -- Starting server...
+09:02:17.043 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+09:03:21.910 INFO  Limbo -- Player yukiscratch44 connected (/127.0.0.1:51356) [V1_8]
+09:03:26.124 INFO  Limbo -- Player yukiscratch44 disconnected
+10:08:48.258 INFO  Limbo -- Stopping server...
+10:08:48.259 INFO  Limbo -- Server stopped, Goodbye!
