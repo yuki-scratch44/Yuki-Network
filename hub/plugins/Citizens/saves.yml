@@ -19,13 +19,13 @@ npc:
         updateSkins: false
       type: PLAYER
       location:
-        bodyYaw: 135.19109
+        bodyYaw: 78.338165
         world: world
         x: '-3.5'
         y: '16.0'
         z: '7.5'
-        yaw: '135.1911'
-        pitch: '0.0'
+        yaw: '78.3382'
+        pitch: '-45.0138'
       owner:
         uuid: 52324a8a-b387-333d-b752-d3077aee73e2
       inventory:
@@ -59,7 +59,7 @@ npc:
           type: GRASS
           amount: 1
           mdata: 0
-    traitnames: rotationtrait,location,equipment,mounttrait,inventory,skintrait,spawned,scoreboardtrait,type,owner,lookclose
+    traitnames: equipment,location,owner,skintrait,scoreboardtrait,mounttrait,type,spawned,rotationtrait,lookclose,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -92,13 +92,13 @@ npc:
             cost: '-1.0'
             experienceCost: -1
       location:
-        bodyYaw: 138.67136
+        bodyYaw: 61.403503
         world: world
         x: '0.5'
         y: '16.0'
         z: '9.5'
-        yaw: '138.6714'
-        pitch: '0.2473'
+        yaw: '61.4035'
+        pitch: '-49.1735'
       equipment:
         hand:
           type: STONE_SWORD
@@ -138,7 +138,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: rotationtrait,commandtrait,location,equipment,mounttrait,inventory,skintrait,spawned,scoreboardtrait,type,owner,lookclose
+    traitnames: equipment,location,owner,skintrait,scoreboardtrait,mounttrait,type,spawned,commandtrait,lookclose,rotationtrait,inventory
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
