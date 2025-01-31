@@ -1,0 +1,17 @@
+updateSpawnsToNewSpawnsConfig: true
+updateJailsToNewJailsConfig: true
+warnMetrics: true
+moveWorthValuesToWorthYml: true
+movemotdToFile: true
+moverulesToFile: true
+newUidCacheBuilt: true
+kitsyml: true
+sanitizeAllUserFilenames: true
+updateUsersPowerToolsFormat: true
+updateUsersHomesFormat: true
+deleteOldItemsCsv: true
+banFormatChange: true
+updateUsersIgnoreListUUID: true
+updateUsersStupidLegacyPathNames: true
+updateUsersMailList: true
+updatePurgeBrokenNpcAccounts: true

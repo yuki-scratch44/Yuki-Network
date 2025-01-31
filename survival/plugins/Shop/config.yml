@@ -1,0 +1,14 @@
+# Thanks for downloading Shop! #
+# If you enjoy the plugin, let me know! I would love to hear from you! #
+
+usePermissions: false
+
+# If you want to use money from a plugin like iConomy #
+# Set 'useVault' to true #
+# You must have Vault installed to do this #
+
+Economy:
+   useVault: false
+   itemId: 388
+   name: Emeralds
+   amountToStart: 10

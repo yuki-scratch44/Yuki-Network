@@ -1,0 +1,41 @@
+spawns:
+  default:
+    world: 8fff08a7-ea70-4fe0-85bf-5d8a6e057f60
+    world-name: world
+    x: 0.5
+    y: 63.0
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+  admin:
+    world: 8fff08a7-ea70-4fe0-85bf-5d8a6e057f60
+    world-name: world
+    x: 0.5
+    y: 63.0
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+  admi:
+    world: 8fff08a7-ea70-4fe0-85bf-5d8a6e057f60
+    world-name: world
+    x: 0.5
+    y: 63.0
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+  '*':
+    world: 8fff08a7-ea70-4fe0-85bf-5d8a6e057f60
+    world-name: world
+    x: 0.5
+    y: 63.0
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+  yukiscratch44:
+    world: 8fff08a7-ea70-4fe0-85bf-5d8a6e057f60
+    world-name: world
+    x: 0.5
+    y: 63.0
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
