@@ -1,84 +1,86 @@
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.3.0-SNAPSHOT (git-e60e2063-b399)...
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 1.1.x (Linux x86_64) ciphers
-[13:18:04] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.3.0-SNAPSHOT:e60e2063:b399
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[13:18:04] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.0.5 by lax1dude, ayunami2000
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin luckperms 5.4.153 by Luck
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nantibot 6.1.27 by NickUC
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 10.4.21 by NickUC
-[13:18:04] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 4 plugins
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:         __    
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |    |__)   LuckPerms v5.4.153
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |___ |      Running on Velocity - Velocity
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [luckperms]: Loading configuration...
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [luckperms]: Loading storage provider... [YAML]
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [luckperms]: Loading internal permission managers...
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [luckperms]: Performing initial data load...
-[13:18:05] [Velocity Async Event Executor - #0/INFO] [luckperms]: Successfully enabled. (took 865ms)
-[13:18:05] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
-[13:18:05] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
-[13:18:05] [Velocity Async Event Executor - #0/ERROR] [eaglerxvelocity]: Online mode is set to false! Authentication system has been disabled
-[13:18:05] [Netty epoll Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
-[13:18:06] [Velocity Async Event Executor - #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[13:18:06] [Velocity Async Event Executor - #0/INFO] [eaglerxvelocity]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
-[13:18:07] [EaglerXVelocity: Network Tick Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/Yuki-Network/velocity/plugins/eaglerxvelocity/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [nantibot]: Successful plugin core start (took 0.59s)
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:           _         _   _   ___       _   
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:                                          
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  By: www.nickuc.com - V 6.1.27
-[13:18:07] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [nlogin]: Successful plugin core start (took 0.59s)
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:           __             _       
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   _ __   / /  ___   __ _(_)_ __  
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | '_ \ / /  / _ \ / _` | | '_ \ 
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | | | / /__| (_) | (_| | | | | |
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  |_| |_\____/\___/ \__, |_|_| |_|
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:                   |___/            
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  By: www.nickuc.com - V 10.4.21
-[13:18:09] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  
-[13:18:10] [Velocity Async Event Executor - #1/INFO] [nantibot]: Injecting channel initializers
-[13:18:10] [Velocity Async Event Executor - #1/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-[13:18:10] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0%0]:25577
-[13:18:10] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (6.57s)!
-[13:18:10] [Velocity Async Event Executor - #2/INFO] [nantibot]: Connecting to the remote server antibot.nickuc.com...
-[13:18:11] [pool-7-thread-1/INFO] [nantibot]: [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 45, threads = 4, took 4.49s)
-[13:18:23] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:34296]: Connected via websocket
-[13:18:23] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:34296]: Origin header is null
-[13:18:23] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] yukiscratch44 (/[0:0:0:0:0:0:0:1%0]:34296) has connected
-[13:18:23] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> limbo has connected
-[13:18:27] [nLogin - Task Executor #0/INFO] [nlogin]: The user yukiscratch44 has successfully logged in.
-[13:18:28] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> hub has connected
-[13:18:28] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> limbo has disconnected
-[13:18:59] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] yukiscratch44 (/[0:0:0:0:0:0:0:1%0]:34296) has disconnected
-[13:18:59] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> hub has disconnected
-[13:19:02] [Thread-7/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
-[13:19:02] [Thread-7/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25577
-[13:19:02] [Velocity Async Event Executor - #2/INFO] [eaglerxvelocity]: Eaglercraft listener closed: /0.0.0.0:8081
-[13:19:02] [Velocity Async Event Executor - #2/INFO] [eaglerxvelocity]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
-[13:19:02] [Velocity Async Event Executor - #2/INFO] [nantibot]: Successful plugin core shutdown (took 0.00s)
-[13:19:02] [Velocity Async Event Executor - #2/INFO] [nantibot]: Disconnecting from remote server...
-[13:19:04] [Velocity Async Event Executor - #2/INFO] [nlogin]: Successful plugin core shutdown (took 0.00s)
-[13:19:04] [Velocity Async Event Executor - #2/INFO] [luckperms]: Starting shutdown process...
-[13:19:04] [Velocity Async Event Executor - #2/INFO] [luckperms]: Closing storage...
-[13:19:04] [Velocity Async Event Executor - #2/INFO] [luckperms]: Goodbye!
+[01:17:37] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.3.0-SNAPSHOT (git-e60e2063-b399)...
+[01:17:37] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[01:17:38] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 1.1.x (Linux x86_64) ciphers
+[01:17:39] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[01:17:39] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.3.0-SNAPSHOT:e60e2063:b399
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[01:17:40] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[01:17:40] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.0.5 by lax1dude, ayunami2000
+[01:17:40] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin luckperms 5.4.153 by Luck
+[01:17:41] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nantibot 6.1.27 by NickUC
+[01:17:42] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 10.4.21 by NickUC
+[01:17:42] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 4 plugins
+[01:17:44] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:         __    
+[01:17:44] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |    |__)   LuckPerms v5.4.153
+[01:17:44] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   |___ |      Running on Velocity - Velocity
+[01:17:44] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[01:17:44] [Velocity Async Event Executor - #0/INFO] [luckperms]: Loading configuration...
+[01:17:45] [Velocity Async Event Executor - #0/INFO] [luckperms]: Loading storage provider... [YAML]
+[01:17:45] [Velocity Async Event Executor - #0/INFO] [luckperms]: Loading internal permission managers...
+[01:17:46] [Velocity Async Event Executor - #0/INFO] [luckperms]: Performing initial data load...
+[01:17:46] [Velocity Async Event Executor - #0/INFO] [luckperms]: Successfully enabled. (took 3816ms)
+[01:17:46] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
+[01:17:46] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
+[01:17:46] [Velocity Async Event Executor - #0/ERROR] [eaglerxvelocity]: Online mode is set to false! Authentication system has been disabled
+[01:17:46] [Netty epoll Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
+[01:17:47] [Velocity Async Event Executor - #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[01:17:47] [Velocity Async Event Executor - #0/INFO] [eaglerxvelocity]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
+[01:17:48] [EaglerXVelocity: Network Tick Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/Yuki-Network/velocity/plugins/eaglerxvelocity/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [nantibot]: Successful plugin core start (took 1.46s)
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:           _         _   _   ___       _   
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:                                          
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  By: www.nickuc.com - V 6.1.27
+[01:17:50] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [nlogin]: Successful plugin core start (took 0.86s)
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:           __             _       
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   _ __   / /  ___   __ _(_)_ __  
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | | | / /__| (_) | (_| | | | | |
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  |_| |_\____/\___/ \__, |_|_| |_|
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:                   |___/            
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  By: www.nickuc.com - V 10.4.21
+[01:17:56] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  
+[01:17:59] [Velocity Async Event Executor - #1/INFO] [nantibot]: Injecting channel initializers
+[01:17:59] [Velocity Async Event Executor - #1/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[01:17:59] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0%0]:25577
+[01:17:59] [Velocity Async Event Executor - #0/INFO] [nantibot]: Connecting to the remote server antibot.nickuc.com...
+[01:17:59] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (23.18s)!
+[01:18:13] [pool-8-thread-2/INFO] [nantibot]: [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 45, threads = 2, took 21.94s)
+[01:20:20] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:50000]: Connected via websocket
+[01:20:20] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:50000]: Origin header is null
+[01:20:21] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] yukiscratch44 (/[0:0:0:0:0:0:0:1%0]:50000) has connected
+[01:20:21] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> limbo has connected
+[01:20:24] [nLogin - Task Executor #3/INFO] [nlogin]: The user yukiscratch44 has successfully logged in.
+[01:20:24] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> hub has connected
+[01:20:24] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> limbo has disconnected
+[01:23:40] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> survival has connected
+[01:23:41] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> hub has disconnected
+[01:25:32] [Thread-18/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
+[01:25:32] [Thread-18/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25577
+[01:25:32] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] yukiscratch44 (/[0:0:0:0:0:0:0:1%0]:50000) has disconnected: Proxy shutting down.
+[01:25:32] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> survival has disconnected
+[01:25:32] [Velocity Async Event Executor - #0/INFO] [eaglerxvelocity]: Eaglercraft listener closed: /0.0.0.0:8081
+[01:25:32] [Velocity Async Event Executor - #0/INFO] [eaglerxvelocity]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[01:25:32] [Velocity Async Event Executor - #0/INFO] [nantibot]: Successful plugin core shutdown (took 0.00s)
+[01:25:32] [Velocity Async Event Executor - #0/INFO] [nantibot]: Disconnecting from remote server...
+[01:25:34] [Velocity Async Event Executor - #0/INFO] [nlogin]: Successful plugin core shutdown (took 0.00s)
+[01:25:34] [Velocity Async Event Executor - #0/INFO] [luckperms]: Starting shutdown process...
+[01:25:34] [Velocity Async Event Executor - #0/INFO] [luckperms]: Closing storage...
+[01:25:34] [Velocity Async Event Executor - #0/INFO] [luckperms]: Goodbye!
