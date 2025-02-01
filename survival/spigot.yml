@@ -72,6 +72,20 @@ world-settings:
     merge-radius:
       exp: 3.0
       item: 2.5
+    max-bulk-chunks: 10
+    max-entity-collisions: 8
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
+    hunger:
+      walk-exhaustion: 0
+      sprint-exhaustion: 0
+      combat-exhaustion: 0
+      regen-exhaustion: 0
+    max-tnt-per-tick: 100
+    max-tick-time:
+      tile: 50
+      entity: 50
     mob-spawn-range: 4
     anti-xray:
       enabled: true
@@ -119,24 +133,10 @@ world-settings:
     hopper-amount: 1
     random-light-updates: false
     save-structure-info: true
-    max-bulk-chunks: 10
-    max-entity-collisions: 8
-    dragon-death-sound-radius: 0
-    seed-village: 10387312
-    seed-feature: 14357617
-    hunger:
-      walk-exhaustion: 0
-      sprint-exhaustion: 0
-      combat-exhaustion: 0
-      regen-exhaustion: 0
-    max-tnt-per-tick: 100
-    max-tick-time:
-      tile: 50
-      entity: 50
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: false
-    wither-spawn-sound-radius: 0
     view-distance: 10
-    zombie-aggressive-towards-villager: true
+    wither-spawn-sound-radius: 0
     hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
