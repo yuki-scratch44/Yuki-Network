@@ -66,3 +66,10 @@
 [02:28:01] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0%0]:25577
 [02:28:01] [Velocity Async Event Executor - #2/INFO] [nantibot]: Connecting to the remote server antibot.nickuc.com...
 [02:28:02] [pool-7-thread-3/INFO] [nantibot]: [Captcha] Captchas generated successfully. (RAM usage ≃ 8 MB [static only], total = 500, protocol count = 45, threads = 4, took 6.08s)
+[02:30:42] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:54388]: Connected via websocket
+[02:30:42] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:54388]: Origin header is null
+[02:30:42] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] yukiscratch44 (/[0:0:0:0:0:0:0:1%0]:54388) has connected
+[02:30:42] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> limbo has connected
+[02:30:45] [nLogin - Task Executor #2/INFO] [nlogin]: The user yukiscratch44 has successfully logged in.
+[02:30:46] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> hub has connected
+[02:30:46] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] yukiscratch44 -> limbo has disconnected

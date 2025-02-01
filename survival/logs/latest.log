@@ -1,18 +1,18 @@
-[02:27:50] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[02:27:50] [Server thread/INFO]: Loading properties
-[02:27:50] [Server thread/INFO]: Default game type: SURVIVAL
-[02:27:50] [Server thread/INFO]: This server is running PandaSpigot version git-PandaSpigot-119 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) (Git: 858ab0f)
-[02:27:51] [Server thread/INFO]: Debug logging is disabled
-[02:27:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:30:23] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[02:30:23] [Server thread/INFO]: Loading properties
+[02:30:23] [Server thread/INFO]: Default game type: SURVIVAL
+[02:30:24] [Server thread/INFO]: This server is running PandaSpigot version git-PandaSpigot-119 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) (Git: 858ab0f)
+[02:30:24] [Server thread/INFO]: Debug logging is disabled
+[02:30:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[02:27:51] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[02:27:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:27:51] [Server thread/INFO]: Data value allowed items: 
-[02:27:51] [Server thread/INFO]: Generating keypair
-[02:27:52] [Server thread/INFO]: Starting Minecraft server on *:25566
-[02:27:52] [Server thread/INFO]: Using default channel type
-[02:27:52] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[02:27:52] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
-[02:27:52] [Server thread/WARN]: Perhaps a server is already running on that port?
-[02:27:52] [Server thread/INFO]: Stopping server
-[02:27:52] [Server thread/INFO]: Saving players
+[02:30:24] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[02:30:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:30:24] [Server thread/INFO]: Data value allowed items: 
+[02:30:24] [Server thread/INFO]: Generating keypair
+[02:30:24] [Server thread/INFO]: Starting Minecraft server on localhost:25566
+[02:30:24] [Server thread/INFO]: Using default channel type
+[02:30:24] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[02:30:24] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
+[02:30:24] [Server thread/WARN]: Perhaps a server is already running on that port?
+[02:30:24] [Server thread/INFO]: Stopping server
+[02:30:24] [Server thread/INFO]: Saving players

@@ -300,3 +300,6 @@
 [02:28:04] [Server thread/INFO]: [Citizens] Loaded 2 NPCs.
 [02:28:04] [Craft Scheduler Thread - 0/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
 [02:28:04] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 5.0.0
+[02:30:46] [User Authenticator #1/INFO]: UUID of player yukiscratch44 is 52324a8a-b387-333d-b752-d3077aee73e2
+[02:30:46] [Server thread/INFO]: yukiscratch44[/[0:0:0:0:0:0:0:1]:40780] logged in with entity id 56 at ([world]-4.751172090168276, 15.0, -1.7375022161400588)
+[02:30:48] [Server thread/INFO]: yukiscratch44 issued server command: /lp
